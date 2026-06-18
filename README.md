@@ -4,7 +4,7 @@
 
 Topo Mania PRO es un videojuego desarrollado en C++ utilizando la librería SFML. El objetivo del juego es golpear los topos que aparecen en diferentes agujeros antes de que desaparezcan. Conforme aumenta la puntuación, la dificultad se incrementa haciendo que los topos aparezcan más rápido.
 
-El proyecto fue desarrollado para la materia Proyecto 252.
+El proyecto fue desarrollado para la materia de programacion .
 
 ---
 
